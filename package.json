@@ -7,7 +7,6 @@
     "node": ">=0.10.26",
     "npm": ">=1.4.3"
   },
-  "os" : [ "linux" ],
   "scripts": {
     "start": "node example/example.js",
     "test": "./node_modules/.bin/vows --spec"
